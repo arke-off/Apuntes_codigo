@@ -1,11 +1,11 @@
 📦 1. Operadores útiles
 # Comparaciones
-==  # igual
-!=  # distinto
->   # mayor
-<   # menor
->=  # mayor o igual
-<=  # menor o igual
+==	# Igualdad
+!=	# Distinto
+<	# Menor alfabéticamente
+>	# Mayor alfabéticamente
+<=	# Menor o igual alfabéticamente
+>=	# Mayor o igual alfabéticamente
 
 # Booleanos
 and  # y
