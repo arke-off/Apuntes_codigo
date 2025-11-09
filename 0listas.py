@@ -22,3 +22,4 @@ lista_palabras = ["rojo","amarillo","verde","azul"]
 print(lista_letras)
 print(lista_numeros)
 print(lista_palabras)
+input ("press start")
